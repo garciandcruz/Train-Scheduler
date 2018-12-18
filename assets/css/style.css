@@ -1,0 +1,23 @@
+
+
+panel{
+	width: 100%;
+}
+
+
+div.panel-body {
+    background-image: url('../css/bananas.png');
+    color: black;
+}
+
+.jumbotron{
+	background-color: aqua;
+	/* Find light color of success panel */
+	color: blue;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
